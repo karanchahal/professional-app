@@ -1,5 +1,10 @@
 # Professional App
+[![CircleCI](https://circleci.com/gh/karanchahal/professional-app/tree/master.svg?style=shield)](https://circleci.com/gh/karanchahal/professional-app/tree/master)
+![awesome](https://img.shields.io/badge/awesome-yes-green.svg)
+<br />
+
 This project aims to get you bootstrapped and started as soon as possible with professional git workflows and continous integration and development.
+
 
 ## Features
  * Docker
