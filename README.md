@@ -1,4 +1,5 @@
 # Professional App
+[![Build Status](https://circleci.com/gh/karanchahal/professional-app.png?circle-token=:circle-token)]
 This project aims to get you bootstrapped and started as soon as possible with professional git workflows and continous integration and development.
 
 ## Features
