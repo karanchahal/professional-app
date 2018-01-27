@@ -1,5 +1,8 @@
 # Professional App
 [![CircleCI](https://circleci.com/gh/karanchahal/professional-app/tree/master.svg?style=shield)](https://circleci.com/gh/karanchahal/professional-app/tree/master)
+
+<br />
+
 This project aims to get you bootstrapped and started as soon as possible with professional git workflows and continous integration and development.
 
 
