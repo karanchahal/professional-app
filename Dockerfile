@@ -10,7 +10,7 @@ WORKDIR /app
 ADD . /app
 
 # Install any needed packages specified in requirements.txt
-RUN npm install
+RUN yarn install
 
 # Make port 80 available to the world outside this container
 EXPOSE 3000
@@ -19,4 +19,4 @@ EXPOSE 3000
 ENV NAME World
 
 # Run app.py when the container launches
-CMD ["npm","start"]
+CMD ["yarn","test"]
