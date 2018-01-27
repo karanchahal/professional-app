@@ -1,8 +1,8 @@
 # Professional App
-[![CircleCI](https://circleci.com/gh/karanchahal/professional-app/tree/master.svg?style=svg)](https://circleci.com/gh/karanchahal/professional-app/tree/master)
+[![CircleCI](https://circleci.com/gh/karanchahal/professional-app/tree/master.svg?style=shield)](https://circleci.com/gh/karanchahal/professional-app/tree/master)
 This project aims to get you bootstrapped and started as soon as possible with professional git workflows and continous integration and development.
 
-https://circleci.com/gh/karanchahal/professional-app.svg?&style=shield&circle-token=
+
 ## Features
  * Docker
  * CircleCI
