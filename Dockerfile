@@ -19,4 +19,4 @@ EXPOSE 3000
 ENV CI true
 
 # Run app.py when the container launches
-CMD ["cd","frontend", "&&", "yarn","start"]
+CMD ["sh","test.sh"]
