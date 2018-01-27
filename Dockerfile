@@ -16,7 +16,7 @@ RUN yarn install
 EXPOSE 3000
 
 # Define environment variable
-ENV NAME World
+ENV CI true
 
 # Run app.py when the container launches
 CMD ["yarn","test"]
