@@ -16,6 +16,13 @@ it('renders x component awesomely', () => {
 });
 
 
+it('renders y component awesomely', () => {
+  const div = document.createElement('div');
+  ReactDOM.render(<App />, div);
+  ReactDOM.unmountComponentAtNode(div);
+});
+
+
 it('renders z component awesomely', () => {
   const div = document.createElement('div');
   ReactDOM.render(<App />, div);
