@@ -26,6 +26,8 @@ jobs:
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
 
+      - setup_remote_docker
+      
       - run: docker build -t node-app .
 
       - save_cache:
