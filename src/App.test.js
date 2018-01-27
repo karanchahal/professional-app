@@ -22,3 +22,10 @@ it('renders y component awesomely', () => {
   ReactDOM.unmountComponentAtNode(div);
 });
 
+
+it('renders z component awesomely', () => {
+  const div = document.createElement('div');
+  ReactDOM.render(<App />, div);
+  ReactDOM.unmountComponentAtNode(div);
+});
+
