@@ -10,7 +10,7 @@ WORKDIR /app
 ADD . /app
 
 # Install any needed packages specified in requirements.txt
-RUN yarn install
+RUN sh build.sh
 
 # Make port 80 available to the world outside this container
 EXPOSE 3000
