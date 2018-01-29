@@ -6,6 +6,13 @@
 This project aims to get you bootstrapped and started as soon as possible with professional git workflows and continous integration and development.
 
 
+# Vision
+This project is meant to get a beginner into the world of devops and the software development lifecycle. Support will be added for 
+<br />
+1. Get started with your Docker file for bootstrapping your application. 
+2. Add an automated build management system with custom build scripts and testing scripts
+3. Configure your system for continous deployment
+
 ## Features
  * Docker
  * CircleCI
